@@ -14,3 +14,6 @@ A simple python project linked with MySQL to perform basic operations in a libra
 
 # Requirements
 - Python
+- TKinter
+- MySQL
+- MySQL connector for Python
