@@ -17,3 +17,8 @@ A simple python project linked with MySQL to perform basic operations in a libra
 - TKinter
 - MySQL
 - MySQL connector for Python
+
+# How to use it?
+- Launch the application using python main.py.
+- Navigate through the intuitive user interface.
+- Use the different functions given in the window as per the use required
