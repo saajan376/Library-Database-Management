@@ -11,3 +11,6 @@ A simple python project linked with MySQL to perform basic operations in a libra
 3) Deleting a book from the database
 4) Returning a book back to the library and storing it back to the system
 5) The last functionality is to view the book and all its details.
+
+# Requirements
+- Python
